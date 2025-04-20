@@ -23,11 +23,43 @@ This project involves:
 
 - **Data Architecture**: Designing a modern data warehouse using Medallion Architecture.  
 - **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.  
-- **Data Modeling**: Developing fact and dimension tables optimized for analytical queries
+- **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.  
+- **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
+🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
 
+- SQL Development  
+- Data Architecture  
+- Data Engineering  
+- ETL Pipeline Development  
+- Data Modeling  
+- Data Analytics
 
+---
 
+## 🛠️ Important Links & Tools
+
+- **Datasets**: Access to the project dataset (CSV files)  
+- **SQL Server Express**: Lightweight server for hosting your SQL database  
+- **SQL Server Management Studio (SSMS)**: GUI for managing and interacting with databases  
+- **GitHub Repository**: For managing, versioning, and collaborating on your code  
+- **DrawIO**: For designing data architecture diagrams  
+- **Notion**: Get the project template and track phases and tasks  
+
+---
+
+## 🚀 Project Requirements
+
+**🎯 Objective:**  
+Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+
+**🧾 Specifications:**
+
+1. **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.  
+2. **Data Quality**: Cleanse and resolve data quality issues prior to analysis.  
+3. **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.  
+4. **Scope**: Focus on the latest dataset only; historization of data is not required.  
+5. **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 
 
